@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: a9ptp5u1l-nodejs-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/a9ptp5u1l-nodejs-gitops
